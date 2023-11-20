@@ -22,7 +22,7 @@ const Footer = () => {
             </ul>
 
             <div className="footer_social">
-                <a href="https://instagram.com/kyle_ryo?igshid=OGQ5ZDc2ODk2ZA==" className="home_social-icon" target='_blank'>
+                <a href="https://www.instagram.com/ruiyoww/" className="home_social-icon" target='_blank'>
                     <i class="bx bxl-instagram-alt"></i> 
                 </a>
 
