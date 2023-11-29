@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/kylepersonalweb.github.io/static/css/main.24634535.css",
-    "main.js": "/kylepersonalweb.github.io/static/js/main.d46983d2.js",
+    "main.css": "/kylepersonalweb.github.io/static/css/main.db0b2c2b.css",
+    "main.js": "/kylepersonalweb.github.io/static/js/main.d2053f44.js",
     "static/js/787.9656a392.chunk.js": "/kylepersonalweb.github.io/static/js/787.9656a392.chunk.js",
-    "static/media/CV - Barakhyel Agustorio.pdf": "/kylepersonalweb.github.io/static/media/CV - Barakhyel Agustorio.96f8b98976d174bf7a03.pdf",
+    "static/media/CV - Barakhyel Agustorio Gulo.pdf": "/kylepersonalweb.github.io/static/media/CV - Barakhyel Agustorio Gulo.d69bfb61110a7a747413.pdf",
+    "static/media/sincereIndo.jpg": "/kylepersonalweb.github.io/static/media/sincereIndo.061eb6dbdff711bd847c.jpg",
+    "static/media/Lebev.jpg": "/kylepersonalweb.github.io/static/media/Lebev.fc6d4f869445b7ceca7c.jpg",
     "static/media/foto flazz.jpg": "/kylepersonalweb.github.io/static/media/foto flazz.cdc310758653142befda.jpg",
     "index.html": "/kylepersonalweb.github.io/index.html",
-    "main.24634535.css.map": "/kylepersonalweb.github.io/static/css/main.24634535.css.map",
-    "main.d46983d2.js.map": "/kylepersonalweb.github.io/static/js/main.d46983d2.js.map",
+    "main.db0b2c2b.css.map": "/kylepersonalweb.github.io/static/css/main.db0b2c2b.css.map",
+    "main.d2053f44.js.map": "/kylepersonalweb.github.io/static/js/main.d2053f44.js.map",
     "787.9656a392.chunk.js.map": "/kylepersonalweb.github.io/static/js/787.9656a392.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24634535.css",
-    "static/js/main.d46983d2.js"
+    "static/css/main.db0b2c2b.css",
+    "static/js/main.d2053f44.js"
   ]
 }
