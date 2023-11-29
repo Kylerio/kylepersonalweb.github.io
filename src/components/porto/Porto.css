@@ -68,3 +68,43 @@
 .porto_button:hover .porto_button-icon{
     transform: translateX(0.25rem);
 }
+
+@media screen and (max-width: 992px){
+    .porto_container{
+        gap: 1.25rem;
+    }
+
+    .porto_card{
+        padding: 1rem;
+    }
+
+    .porto_img{
+        margin-bottom: 0.75rem;
+    }
+
+    .porto_title{
+        margin-bottom: 0.25rem;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .porto_container{
+        grid-template-columns: max-content;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .porto_container{
+        grid-template-columns: 1fr;
+    }
+
+    .porto_img{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 350px){
+    .porto_item{
+        font-size: var(--small-size);
+    }
+}
