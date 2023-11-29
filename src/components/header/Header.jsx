@@ -43,6 +43,14 @@ const Header = () => {
                                 <i className="uil uil-file-alt nav_icon"></i> Skills
                             </a>
                         </li>
+
+                        <li className="nav_item">
+                            <a href="#portofolio" onClick={() => setActiveNav("#portofolio")} className={
+                                activeNav === "#portofolio" ? "nav_link active-link" : "nav_link"
+                            }>
+                                <i className="uil uil-file-alt nav_icon"></i> Portofolio
+                            </a>
+                        </li>
                     </ul>
 
                     <i class="uil uil-times nav_close" onClick={() => showMenu(!Toggle)}></i>

@@ -6,6 +6,7 @@ import Skill from './components/skill/Skill';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import ScrollUp from './components/scrollUp/ScrollUp';
+import Porto from './components/porto/Porto';
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
       <Home />
       <About />
       <Skill />
-
+      <Porto />
 
     </main>
 

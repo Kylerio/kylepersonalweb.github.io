@@ -26,8 +26,8 @@ const Footer = () => {
                     <i class="bx bxl-instagram-alt"></i> 
                 </a>
 
-                <a href="https://www.facebook.com/" className="home_social-icon" target='_blank'>
-                    <i class="bx bxl-facebook-square"></i>
+                <a href="https://github.com/Kylerio" className="home_social-icon" target='_blank'>
+                    <i class="bx bxl-github"></i>
                 </a>
 
                 <a href="https://www.linkedin.com/in/barakhyel-agustorio-gulo-b9829b143/" className="home_social-icon" target='_blank'>

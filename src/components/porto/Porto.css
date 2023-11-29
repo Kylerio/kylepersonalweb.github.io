@@ -1,0 +1,70 @@
+.porto_filters{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 0.75rem;
+    margin-bottom: var(--mb-2);
+    display: none;
+}
+
+.porto_item{
+    cursor: pointer;
+    color: var(--title-color);
+    padding: 0.25rem;
+    background-color: #fff;
+    font-weight: var(--font-medium);
+    border-radius: 0.5rem;
+    text-transform: capitalize;
+}
+
+.porto_item:hover{
+    background-color: var(--title-color);
+    color: var(--container-color);
+}
+
+.porto_container{
+    grid-template-columns: repeat(2, max-content);
+    gap: 3rem;
+    justify-content: center;
+}
+
+.porto_card{
+    background-color: var(--container-color);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 1.25rem;
+    border-radius: 1rem;
+}
+
+.porto_img{
+    width: 295px;
+    border-radius: 1rem;
+    margin-bottom: var(--mb-1);
+}
+
+.porto_title{
+    font-size: var(--h3-size);
+    font-weight: var(--font-medium);
+    
+}
+
+.porto_category{
+    font-size: var(--small-size);
+    margin-bottom: var(--mb-1);
+}
+
+.porto_button{
+    color: var(--text-color);
+    font-size: var(--normal-font-size);
+    display: flex;
+    align-items: center;
+    column-gap: 0.25rem;
+}
+
+.porto_button-icon{
+    font-size: 1rem;
+    transition: 0.4s;
+}
+
+.porto_button:hover .porto_button-icon{
+    transform: translateX(0.25rem);
+}

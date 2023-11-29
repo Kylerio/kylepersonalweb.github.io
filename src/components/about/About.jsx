@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/foto flazz.jpg";
-import CV from "../../assets/CV - Barakhyel Agustorio.pdf";
+import CV from "../../assets/CV - Barakhyel Agustorio Gulo.pdf";
 import Information from './Information';
 
 const About = () => {
@@ -16,7 +16,7 @@ const About = () => {
             <div className='about_data'>
                 <Information />
 
-                <p className='about_description'>Undergraduate student at Binus University. I am looking for experience in the UI / UX user interface and frontend developer field.</p>
+                <p className='about_description'>Undergraduate student at Binus University. I am looking for experience in the UI / UX and frontend developer field.</p>
 
                 <a download="" href={CV} className="button button-flex">Download CV
                     <svg
