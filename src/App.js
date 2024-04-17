@@ -18,7 +18,7 @@ function App() {
       <About />
       <Skill />
       <Porto />
-
+      <Contact />
     </main>
 
     <Footer />

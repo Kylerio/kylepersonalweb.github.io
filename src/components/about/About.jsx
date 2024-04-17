@@ -16,7 +16,7 @@ const About = () => {
             <div className='about_data'>
                 <Information />
 
-                <p className='about_description'>Undergraduate student at Binus University. I am looking for experience in the UI / UX and frontend developer field.</p>
+                <p className='about_description'>Undergraduate student at Binus University majoring Computer Science. I am looking for experience in the UI/UX and frontend developer field.</p>
 
                 <a download="" href={CV} className="button button-flex">Download CV
                     <svg

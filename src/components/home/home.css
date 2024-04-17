@@ -30,12 +30,6 @@
     color: var(--title-color-2);
 }
 
-.home_hand{
-    width: 38px;
-    height: 38px;
-    margin-left: 0.4rem;
-}
-
 .home_subtitle{
     position: relative;
     font-size: var(--h3-size);

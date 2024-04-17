@@ -20,6 +20,7 @@
     color: var(--title-color-2);
     font-family: var(--title);
     font-weight: var(--font-semi-bold);
+    font-size: var(--h3-size);
 }
 
 .nav_list{
@@ -31,7 +32,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-size: var(--small-size);
+    font-size: var(--normal-font-size);
     color: var(--title-color);
     font-weight: var(--font-medium);
     transition: .3s;
