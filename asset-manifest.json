@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/kylepersonalweb.github.io/static/css/main.c7dc81d2.css",
-    "main.js": "/kylepersonalweb.github.io/static/js/main.4a635687.js",
+    "main.css": "/kylepersonalweb.github.io/static/css/main.d2959189.css",
+    "main.js": "/kylepersonalweb.github.io/static/js/main.9d9f6dd0.js",
     "static/js/787.9656a392.chunk.js": "/kylepersonalweb.github.io/static/js/787.9656a392.chunk.js",
-    "static/media/CV - Barakhyel Agustorio Gulo.pdf": "/kylepersonalweb.github.io/static/media/CV - Barakhyel Agustorio Gulo.56f8c79b8a404cae7717.pdf",
+    "static/media/logo sincere.png": "/kylepersonalweb.github.io/static/media/logo sincere.aabf5702bc31724d29fc.png",
+    "static/media/CV - Barakhyel Agustorio Gulo.pdf": "/kylepersonalweb.github.io/static/media/CV - Barakhyel Agustorio Gulo.16d967a0ff68f847a292.pdf",
     "static/media/sincereIndo.jpg": "/kylepersonalweb.github.io/static/media/sincereIndo.061eb6dbdff711bd847c.jpg",
     "static/media/Lebev.jpg": "/kylepersonalweb.github.io/static/media/Lebev.fc6d4f869445b7ceca7c.jpg",
     "static/media/foto flazz.jpg": "/kylepersonalweb.github.io/static/media/foto flazz.cdc310758653142befda.jpg",
+    "static/media/Logo Lebev.jpg": "/kylepersonalweb.github.io/static/media/Logo Lebev.6bcddfb3f1b2b7c63295.jpg",
     "index.html": "/kylepersonalweb.github.io/index.html",
-    "main.c7dc81d2.css.map": "/kylepersonalweb.github.io/static/css/main.c7dc81d2.css.map",
-    "main.4a635687.js.map": "/kylepersonalweb.github.io/static/js/main.4a635687.js.map",
+    "main.d2959189.css.map": "/kylepersonalweb.github.io/static/css/main.d2959189.css.map",
+    "main.9d9f6dd0.js.map": "/kylepersonalweb.github.io/static/js/main.9d9f6dd0.js.map",
     "787.9656a392.chunk.js.map": "/kylepersonalweb.github.io/static/js/787.9656a392.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7dc81d2.css",
-    "static/js/main.4a635687.js"
+    "static/css/main.d2959189.css",
+    "static/js/main.9d9f6dd0.js"
   ]
 }
